@@ -382,7 +382,7 @@ msgstr "(старая база данных сохранена в %s)"
 
 #: ../../lib/alpm_backup.sh:81
 msgid "wrong argument"
-msgstr "неверный аргемент"
+msgstr "неверный аргумент"
 
 #: ../../lib/alpm_query.sh:34
 msgid "Packages which depend on %s:"
@@ -606,7 +606,7 @@ msgstr "помечен как требующий обновления"
 
 #: ../../lib/aur.sh:183
 msgid "Orphan"
-msgstr "Возможно не нужен"
+msgstr "Нет ответственного"
 
 #: ../../lib/io.sh:98
 msgid "[Y/n]"
@@ -662,7 +662,7 @@ msgstr "Неизвестные специфические параметры п�
 
 #: ../../lib/pkgbuild.sh.in:94
 msgid "%s dependencies:"
-msgstr "завистмости %s:"
+msgstr "зависимости %s:"
 
 #: ../../lib/pkgbuild.sh.in:96
 msgid "(already installed)"
@@ -803,7 +803,7 @@ msgstr "Отменено..."
 #: ../../lib/util.sh.in:184
 #, sh-format
 msgid "Please add $VISUAL to your environment variables"
-msgstr "Пожалуйста добавьте $VISUAL к переменным окружения"
+msgstr "Пожалуйста, добавьте $VISUAL к переменным окружения"
 
 #: ../../lib/util.sh.in:185
 msgid "for example:"
